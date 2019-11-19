@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    font-family: 'Calistoga', cursive;
+    font-size: xx-large;
+}
+
+#container {
+    width: 50%;
+    background-color: honeydew;
+    border: 2px lavender solid;
+    margin: 0px auto;
+    padding: 10px;
+}
